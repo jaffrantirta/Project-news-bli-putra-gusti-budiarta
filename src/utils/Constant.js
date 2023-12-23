@@ -1,5 +1,5 @@
 export const APP_NAME = "Gusti Budiarta";
-export const TAG_LINE = "GustiBudiarta";
+export const TAG_LINE = "Ir. Gusti Putu Budiarta";
 export const SUPABASE_URL = "https://glykpsxedmxdxrvbkizw.supabase.co/";
 export const SUPABASE_KEY =
   "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdseWtwc3hlZG14ZHhydmJraXp3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDMzMDIyNDUsImV4cCI6MjAxODg3ODI0NX0.pDSUHfpfzhTICrNLUtAw_a2l59TL022G8McDX6wmSHM";
