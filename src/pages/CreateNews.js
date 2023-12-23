@@ -80,7 +80,7 @@ export default function CreateNews() {
       });
       if (errorNews) {
         if (new_path !== null) {
-          await remove({ bucket_name: "images", path: new_path });
+          await remove({ bucket_name: "assets", path: new_path });
         }
         Swal.fire(ERROR_MESSAGE, errorNews.message, "error");
         setIsLoading(false);
